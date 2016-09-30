@@ -28,7 +28,10 @@ Also see [Introduction to the Dependency Mechanism - Importing Dependencies](htt
 
 ### Gradle
 
-TODO
+Gradle doesn't support Maven BOMs out of the box, but there are a few 3rd party plugins addressing this issue:
+
+* [Nebula Dependency Recommender](https://github.com/nebula-plugins/nebula-dependency-recommender-plugin#readme)
+* [Spring Dependency management plugin](https://github.com/spring-gradle-plugins/dependency-management-plugin#readme)
 
 
 ## License
