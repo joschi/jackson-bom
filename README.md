@@ -4,7 +4,6 @@
 
 This project is an unofficial bill of materials (BOM) for the [Jackson](http://wiki.fasterxml.com/JacksonHome) project.
 
-
 ## Usage
 
 ### Maven
@@ -24,6 +23,8 @@ Simply import the `jackson-bom` artifact into your project's `<dependencyManagem
     </dependencies>
 </dependencyManagement>
 ```
+
+Also see [Introduction to the Dependency Mechanism - Importing Dependencies](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Importing_Dependencies).
 
 ### Gradle
 
