@@ -1,0 +1,21 @@
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+### JetBrains template
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ
+out/
+.idea_modules/
