@@ -7,7 +7,21 @@ This project is an unofficial bill of materials (BOM) for the [Jackson](http://w
 
 ### Maven
 
-Simply import the `jackson-bom` artifact into your project's `<dependencyManagement>` section
+Simply import the `jackson-bom` artifact into your project's `<dependencyManagement>` section:
+
+```xml
+<dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.joschi.jackson</groupId>
+            <artifactId>jackson-bom</artifactId>
+            <version>${jackson.version}</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependencyManagement>
+```
 
 ### Gradle
 
