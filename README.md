@@ -1,5 +1,7 @@
 # Jackson Bill Of Materials (BOM)
 
+[![Build Status](https://travis-ci.org/joschi/jackson-bom.svg?branch=master)](https://travis-ci.org/joschi/jackson-bom)
+
 This project is an unofficial bill of materials (BOM) for the [Jackson](http://wiki.fasterxml.com/JacksonHome) project.
 
 
